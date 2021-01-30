@@ -9,5 +9,6 @@
         echo '<h1>Esto es una prueba para Git</h1>';
         ?>
         <h2>Agregar cambios para Git</h2>
+        <h3>Mas cambios para Git</h3>
     </body>
 </html>
