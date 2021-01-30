@@ -10,5 +10,6 @@
         ?>
         <h2>Agregar cambios para Git</h2>
         <h3>Mas cambios para Git</h3>
+        <h4>Cambios desde GitHub</h4>
     </body>
 </html>
